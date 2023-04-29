@@ -1,7 +1,28 @@
 <h1> Case Study: How Does a Bike-Share Navigate Speedy Success? </h1>
 
+## Table of Contents
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>"Click to expand"</summary>
 
-<h2> Introduction </h2>
+- [Introduction](#Introduction)
+- [Scenario](#Scenario)
+- [Characters and teams](#Characters)
+- [About the company](#AboutCompany)
+- [QUESTION](#AnaliseQuestions)
+- [Deliverables](#Deliverables)
+  - [A clear statement of the business task](#ClearStatement)
+  - [A description of all data sources used](#Sources)
+  - [Documentation of any cleaning or manipulation of data](#Manipulation)
+  - [A summary of my analysis](#Summary)
+  - [Supporting visualizations and key findings](#KeyFindings)
+  - [My top three recommendations based on my analysis](#Recommendations)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+
+<h2 id="Introduction"> Introduction </h2>
 &nbsp; &nbsp; &nbsp; In this case study, I'll work for a fictional company, Cyclistic, and meet different characters and team members. In order to
 answer the key business questions, following the steps of the data analysis process: 
 
@@ -12,7 +33,7 @@ answer the key business questions, following the steps of the data analysis proc
 * Share
 * Act 
 
-<h2> Scenario </h2>
+<h2 id="Scenario"> Scenario </h2>
   
 &nbsp; &nbsp; &nbsp; As a data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
@@ -21,7 +42,7 @@ our team will design a new marketing strategy to convert casual riders into annu
 must approve mine recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
-<h2> Characters and teams </h2>
+<h2 id="Characters"> Characters and teams </h2>
 
 * Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself
 apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with
@@ -37,7 +58,7 @@ achieve them.
 * Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.
 
-<h2> About the company </h2>
+<h2 id="AboutCompany"> About the company </h2>
 
 &nbsp; &nbsp; &nbsp; In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
 are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
@@ -59,21 +80,28 @@ do that, however, the marketing analyst team needs to better understand how annu
 casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are
 interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
-<h2> QUESTIONS </h2>
-
-
-I've been assigned with the question: <br>
+<h2 id="AnaliseQuestions"> QUESTION </h2>
 
 ### How do annual members and casual riders use Cyclistic bikes differently?
 
-I'll produce a report with the following deliverables:
+<h2 id="Deliverables"> Deliverables </h2>
 
-1. <a href="ClearStatement"> A clear statement of the business task </a>
-2. A description of all data sources used
-3. Documentation of any cleaning or manipulation of data
-4. A summary of my analysis
-5. Supporting visualizations and key findings
-6. My top three recommendations based on my analysis
+1. [A clear statement of the business task](#ClearStatement) 
+2. [A description of all data sources used](#Sources)
+3. [Documentation of any cleaning or manipulation of data](#Manipulation)
+4. [A summary of my analysis](#Summary)
+5. [Supporting visualizations and key findings](#KeyFindings)
+6. [My top three recommendations based on my analysis](#Recommendations)
 
 <h2 id="ClearStatement"> A clear statement of the business task </h2>
+
+<h3> Questions </h3>
+
+* What is the problem i'm are trying to solve?
+* How can my insights drive business decisions?
+
+<h3> Key tasks </h3>
+
+1. Identify the business task
+2. Consider key stakeholders
 
