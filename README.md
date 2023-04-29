@@ -112,8 +112,8 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 * Where is the data located?
 * How is the data organized?
 * Are there issues with bias or credibility in this data?
-* How I address licensing, privacy, security, and accessibility?
-* How I verify the data’s integrity?
+* How licensing, privacy, security, and accessibility was addressed?
+* How I verified the data’s integrity?
 * How does it help me to answer the question?
 * Are there any problems with the data?
 
@@ -128,10 +128,10 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 <h3> Questions </h3>
 
 * What tools I choose and why?
-* How I ensure data’s integrity?
+* How I did to make sure the date has integrity?
 * What steps I did to ensure that my data is clean?
-* How can I verify that my data is clean and ready to analyze?
-* How I documented the cleaning process so I can review and share those results?
+* How I did to verify that my data is clean and ready to analyze?
+* How I did to document the cleaning process so I can review and share those results?
 
 <h3> Key tasks </h3>
 
@@ -145,7 +145,7 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 <h3> Questions </h3>
 
-* How should I organize my data to perform analysis on it?
+* How I organize my data to perform analysis on it?
 * Has my data been properly formatted?
 * What surprises did I discover in the data?
 * What trends or relationships did I find in the data?
@@ -163,12 +163,12 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 <h3> Questions </h3>
 
-* Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
-* What story does your data tell?
-* How do your findings relate to your original question?
-* Who is your audience? What is the best way to communicate with them?
-* Can data visualization help you share your findings?
-* Is your presentation accessible to your audience?
+* Was this analise able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+* What story does this data tell?
+* How do my findings relate to the original question?
+* Who is my audience? What is the best way to communicate with them?
+* Can data visualization help me share my findings?
+* Is my presentation accessible to my audience?
 
 <h3> Key tasks </h3>
 
@@ -181,7 +181,6 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 <h3> Questions </h3>
 
-* What is your final conclusion based on your analysis?
-* How could your team and business apply your insights?
-* What next steps would you or your stakeholders take based on your findings?
-* Is there additional data you could use to expand on your findings?
+* Final conclusion based on this analysis?
+* How could my team and business apply those insights?
+* What next steps me or my stakeholders should take based on my findings?
