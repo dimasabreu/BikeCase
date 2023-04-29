@@ -102,6 +102,86 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 <h3> Key tasks </h3>
 
-1. Identify the business task
-2. Consider key stakeholders
+1. Identify the business task.
+2. Consider key stakeholders.
 
+<h2 id="Sources"> A description of all data sources used </h2>
+
+<h3> Questions </h3>
+
+* Where is the data located?
+* How is the data organized?
+* Are there issues with bias or credibility in this data?
+* How I address licensing, privacy, security, and accessibility?
+* How I verify the data’s integrity?
+* How does it help me to answer the question?
+* Are there any problems with the data?
+
+<h3> Key tasks </h3>
+
+1. Identify how it’s organized.
+2. Sort and filter the data.
+3. Determine the credibility of the data.
+
+<h2 id="Manipulation"> Documentation of any cleaning or manipulation of data </h2>
+
+<h3> Questions </h3>
+
+* What tools I choose and why?
+* How I ensure data’s integrity?
+* What steps I did to ensure that my data is clean?
+* How can I verify that my data is clean and ready to analyze?
+* How I documented the cleaning process so I can review and share those results?
+
+<h3> Key tasks </h3>
+
+1. Check the data for errors.
+2. Choosing the best tools.
+3. Transform the data so I can work with it effectively.
+4. Document the cleaning process.
+
+
+<h2 id="Summary"> A summary of your analysis </h2> 
+
+<h3> Questions </h3>
+
+* How should I organize my data to perform analysis on it?
+* Has my data been properly formatted?
+* What surprises did I discover in the data?
+* What trends or relationships did I find in the data?
+* How will these insights help answer the business questions?
+
+<h3> Key tasks </h3>
+
+1. Aggregate my data so it’s useful and accessible.
+2. Organize and format the data.
+3. Perform calculations.
+4. Identify trends and relationships.
+
+
+<h2 id="KeyFindings"> Supporting visualizations and key findings </h2>
+
+<h3> Questions </h3>
+
+* Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+* What story does your data tell?
+* How do your findings relate to your original question?
+* Who is your audience? What is the best way to communicate with them?
+* Can data visualization help you share your findings?
+* Is your presentation accessible to your audience?
+
+<h3> Key tasks </h3>
+
+1. Determine the best way to share your findings.
+2. Create effective data visualizations.
+3. Present your findings.
+4. Ensure your work is accessible
+
+<h2 id="Recommendations"> Your top three recommendations based on your analysis </h2>
+
+<h3> Questions </h3>
+
+* What is your final conclusion based on your analysis?
+* How could your team and business apply your insights?
+* What next steps would you or your stakeholders take based on your findings?
+* Is there additional data you could use to expand on your findings?
