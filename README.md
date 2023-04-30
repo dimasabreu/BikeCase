@@ -141,7 +141,7 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 4. Document the cleaning process.
 
 
-<h2 id="Summary"> A summary of your analysis </h2> 
+<h2 id="Summary"> A summary of this analysis </h2> 
 
 <h3> Questions </h3>
 
@@ -177,7 +177,7 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 3. Present your findings.
 4. Ensure your work is accessible
 
-<h2 id="Recommendations"> Your top three recommendations based on your analysis </h2>
+<h2 id="Recommendations"> My top three recommendations based on this analysis </h2>
 
 <h3> Questions </h3>
 
