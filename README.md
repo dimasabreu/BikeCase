@@ -98,49 +98,35 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 <h3> Questions </h3>
 
 * What is the problem i'm are trying to solve?
+  * A: Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers. I'm helping the Marketing team, getting insights analyzing the Cyclistic historical bike trip data to identify trends and responding the question: How do annual members and casual riders use Cyclistic bikes differently? So they can use data to make Data-Driven decisions. 
+  
 * How can my insights drive business decisions?
+  *A: 
 
-<h3> Key tasks </h3>
-
-1. Identify the business task.
-2. Consider key stakeholders.
 
 <h2 id="Sources"> A description of all data sources used </h2>
 
 <h3> Questions </h3>
 
-* Where is the data located?
 * How is the data organized?
+  *A: The data is divided by months, containing columns about the type of the bike, how long was the ride, where was the ride and type of member.
+  
 * Are there issues with bias or credibility in this data?
-* How licensing, privacy, security, and accessibility was addressed?
-* How I verified the data’s integrity?
-* How does it help me to answer the question?
-* Are there any problems with the data?
-
-<h3> Key tasks </h3>
-
-1. Identify how it’s organized.
-2. Sort and filter the data.
-3. Determine the credibility of the data.
+  *A: The Data is only from Chigaco, so if we only want to know what happen here, there isn't a problem with it.
 
 <h2 id="Manipulation"> Documentation of any cleaning or manipulation of data </h2>
 
 <h3> Questions </h3>
 
 * What tools I choose and why?
-* How I did to make sure the date has integrity?
+  *A:
+  
 * What steps I did to ensure that my data is clean?
-* How I did to verify that my data is clean and ready to analyze?
+   *A:
+   
 * How I did to document the cleaning process so I can review and share those results?
-
-<h3> Key tasks </h3>
-
-1. Check the data for errors.
-2. Choosing the best tools.
-3. Transform the data so I can work with it effectively.
-4. Document the cleaning process.
-
-
+   *A:
+   
 <h2 id="Summary"> A summary of this analysis </h2> 
 
 <h3> Questions </h3>
