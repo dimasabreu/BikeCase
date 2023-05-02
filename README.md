@@ -108,6 +108,9 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 <h3> Questions </h3>
 
+* Where is the data located?
+  * I get this data from https://divvy-tripdata.s3.amazonaws.com/index.html Cyclistic is a fictional company.
+
 * How is the data organized?
   * A: The data is divided by months, containing columns about the type of the bike, how long was the ride, where was the ride and type of member.
   
