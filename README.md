@@ -123,7 +123,7 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
   * A:I choose python to use Pandas.
   
 * What steps I did to ensure that my data is clean?
-   * A: First I import all the files into a DF:
+   * A: First I import all the files into a DF chosing only the columns I need:
    
    ``` 
    
