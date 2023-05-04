@@ -108,27 +108,45 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 <h3> Questions </h3>
 
-* Where is the data located?
-  * I get this data from https://divvy-tripdata.s3.amazonaws.com/index.html Cyclistic is a fictional company.
+* Where i get this data?
+  * I get this data from https://divvy-tripdata.s3.amazonaws.com/index.html . Cyclistic is a fictional company, downloaded last 12 months of data.
 
 * How is the data organized?
-  * A: The data is divided by months, containing columns about the type of the bike, how long was the ride, where was the ride and type of member.
+  * A: The excel files are divided by months each one contains columns for ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
   
-* Are there issues with bias or credibility in this data?
-  * A: The Data is only from Chigaco, so if we only want to know what happen here, there isn't a problem with it.
 
 <h2 id="Manipulation"> Documentation of any cleaning or manipulation of data </h2>
 
 <h3> Questions </h3>
 
 * What tools I choose and why?
-  * A:
+  * A:I choose python to use Pandas.
   
 * What steps I did to ensure that my data is clean?
-   * A:
+   * A: First I import all the files into a DF:
    
-* How I did to document the cleaning process so I can review and share those results?
-   * A:
+   ``` 
+   
+   df = pd.concat([pd.read_csv(one_filename, 
+                            usecols=['ride_id', 
+                                     'rideable_type', 
+                                     'started_at', 
+                                     'ended_at', 
+                                     'start_station_name', 
+                                     'start_station_id', 
+                                     'end_station_name', 
+                                     'end_station_id', 
+                                     'member_casual'])
+    for one_filename in glob.glob('cases/divvy-tripdata*.csv')]) 
+    
+    ```
+   Then I use a function to drop all the null values:
+   
+   ```
+      
+      df = df.dropna()
+   
+   ```
    
 <h2 id="Summary"> A summary of this analysis </h2> 
 
