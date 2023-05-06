@@ -53,7 +53,7 @@ commute to work each day.
 and initiatives to promote the bike-share program. These may include email, social media, and other channels.
 * Cyclistic marketing analytics team: A team of data analysts who are responsible for collecting, analyzing, and
 reporting data that helps guide Cyclistic marketing strategy. You joined this team six months ago and have been busy
-learning about Cyclistic’s mission and business goals — as well as how you, as a junior data analyst, can help Cyclistic
+learning about Cyclistic’s mission and business goals can help Cyclistic
 achieve them.
 * Cyclistic executive team: The notoriously detail-oriented executive team will decide whether to approve the
 recommended marketing program.
@@ -109,11 +109,10 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 <h3> Questions </h3>
 
 * Where i get this data?
-  * I get this data from https://divvy-tripdata.s3.amazonaws.com/index.html . Cyclistic is a fictional company, downloaded last 12 months of data.
+  * I get this data from https://divvy-tripdata.s3.amazonaws.com/index.html . Cyclistic is a fictional company, downloaded 12 months of data from 2022-04 to 2022-03.
 
 * How is the data organized?
-  * A: The excel files are divided by months each one contains columns for ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
-  
+  * A: The excel files are divided by months each one contains information about, type of client, type of rideable used, for how long it was used, where it was rented, where it was delivered.   
 
 <h2 id="Manipulation"> Documentation of any cleaning or manipulation of data </h2>
 
@@ -123,9 +122,9 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
   * A:I choose Python to use Pandas.
   
 * What steps I did to ensure that my data is clean?
-   * A: First I import all the files into a DF chosing only the columns I need.
-   * Used a function to drop all the null values
-   * Used a function to drop duplicates
+   * A: First I import all the files into a DF chosing only the columns I need, containing 5803720 rows.
+   * Used a function to drop all the null values, 4482362 rows remaining.
+   * Used a function to drop duplicates, 4482362 rows remaining.
    
 <h2 id="Summary"> A summary of this analysis </h2> 
 
