@@ -120,74 +120,60 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 <h3> Questions </h3>
 
 * What tools I choose and why?
-  * A:I choose python to use Pandas.
+  * A:I choose Python to use Pandas.
   
 * What steps I did to ensure that my data is clean?
-   * A: First I import all the files into a DF chosing only the columns I need:
-   
-   ``` 
-   
-   df = pd.concat([pd.read_csv(one_filename, 
-                            usecols=['ride_id', 
-                                     'rideable_type', 
-                                     'started_at', 
-                                     'ended_at', 
-                                     'start_station_name', 
-                                     'start_station_id', 
-                                     'end_station_name', 
-                                     'end_station_id', 
-                                     'member_casual'])
-    for one_filename in glob.glob('cases/divvy-tripdata*.csv')]) 
-    
-    ```
-   Then I use a function to drop all the null values:
-   
-   ```
-      
-      df = df.dropna()
-   
-   ```
+   * A: First I import all the files into a DF chosing only the columns I need.
+   * Used a function to drop all the null values
+   * Used a function to drop duplicates
    
 <h2 id="Summary"> A summary of this analysis </h2> 
 
 <h3> Questions </h3>
 
 * How I organize my data to perform analysis on it?
-* Has my data been properly formatted?
-* What surprises did I discover in the data?
+  * Create one Data Frame for each comparation
+
 * What trends or relationships did I find in the data?
+  * On One year of data we had:
+    * We had 4.482.362 Unique Rides.
+      * They are divided by:
+        * Members did 2.709.889 rides.
+          * 1.748.836 Using Classic Bikes.
+          * 961.053 Using Eletric Bikes.
+        * Casual Riders did 1.772.473 rides.
+          * 887.242 Using Classic Bikes.
+          * 171.126 Using Docked Bikes.
+          * 714.105 Using Eletric Bikes.
+   *
+        
+
 * How will these insights help answer the business questions?
-
-<h3> Key tasks </h3>
-
-1. Aggregate my data so it’s useful and accessible.
-2. Organize and format the data.
-3. Perform calculations.
-4. Identify trends and relationships.
-
+  * 
 
 <h2 id="KeyFindings"> Supporting visualizations and key findings </h2>
 
 <h3> Questions </h3>
 
 * Was this analise able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+
 * What story does this data tell?
+
 * How do my findings relate to the original question?
+
 * Who is my audience? What is the best way to communicate with them?
+
 * Can data visualization help me share my findings?
+
 * Is my presentation accessible to my audience?
 
-<h3> Key tasks </h3>
-
-1. Determine the best way to share your findings.
-2. Create effective data visualizations.
-3. Present your findings.
-4. Ensure your work is accessible
 
 <h2 id="Recommendations"> My top three recommendations based on this analysis </h2>
 
 <h3> Questions </h3>
 
 * Final conclusion based on this analysis?
+
 * How could my team and business apply those insights?
+
 * What next steps me or my stakeholders should take based on my findings?
