@@ -144,7 +144,10 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
           * 887.242 Using Classic Bikes.
           * 171.126 Using Docked Bikes.
           * 714.105 Using Eletric Bikes.
-   *
+     
+![image](https://user-images.githubusercontent.com/95443404/236643810-5ffac091-5d61-402d-8166-7378595622b3.png)
+
+
         
 
 * How will these insights help answer the business questions?
