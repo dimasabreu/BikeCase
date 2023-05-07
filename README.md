@@ -146,6 +146,20 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
           * 714.105 Using Eletric Bikes.
      
 ![image](https://user-images.githubusercontent.com/95443404/236643810-5ffac091-5d61-402d-8166-7378595622b3.png)
+  
+  * The 5 most used stations by MEMBERS are:
+    * Number 1 with 23.720 rides started is Kingsbury St & Kinzie Station (8.363 casual riders also started here).
+    * Number 2 with 21.386 rides started is Clark St & Elm St Station (12.007 casual riders also started here).
+    * Number 3 with 20.304 rides started is Clinton St & Washington Blvd Station (5.690 casual riders also started here).
+    * Number 4 with 20.203 rides started is Wells St & Concord Ln Station (14.972 casual riders also started here).
+    * Number 5 with 19.408 rides started is Loomis St & Lexington St Station (2.915 casual riders also started here).
+  * The 5 most used stations by CASUAL RIDERS are:
+    * Number 1 with 54.023 rides started at Streeter Dr & Grand Ave AVE Station (16.217 members also started here).
+    * Number 2 with 29.866 rides started at DuSable Lake Shore Dr & Monroe St Station (8.797 members also started here).
+    * Number 3 with 23.636 rides started at Millennium Park Station (9.001 members also started here).
+    * Number 4 with 23.488 rides started at Michigan Ave & Oak St Station (13.588 members also started here).
+    * Number 5 with 21.850 rides started at DuSable Lake Shore Dr & North Blvd Station (15.406 members also started here).
+    
 
 
         
