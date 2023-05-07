@@ -147,18 +147,24 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
      
 ![image](https://user-images.githubusercontent.com/95443404/236643810-5ffac091-5d61-402d-8166-7378595622b3.png)
   
-  * The 5 most used stations by MEMBERS are:
-    * Number 1 with 23.720 rides started is Kingsbury St & Kinzie Station (8.363 casual riders also started here).
-    * Number 2 with 21.386 rides started is Clark St & Elm St Station (12.007 casual riders also started here).
-    * Number 3 with 20.304 rides started is Clinton St & Washington Blvd Station (5.690 casual riders also started here).
-    * Number 4 with 20.203 rides started is Wells St & Concord Ln Station (14.972 casual riders also started here).
-    * Number 5 with 19.408 rides started is Loomis St & Lexington St Station (2.915 casual riders also started here).
-  * The 5 most used stations by CASUAL RIDERS are:
-    * Number 1 with 54.023 rides started at Streeter Dr & Grand Ave AVE Station (16.217 members also started here).
-    * Number 2 with 29.866 rides started at DuSable Lake Shore Dr & Monroe St Station (8.797 members also started here).
-    * Number 3 with 23.636 rides started at Millennium Park Station (9.001 members also started here).
-    * Number 4 with 23.488 rides started at Michigan Ave & Oak St Station (13.588 members also started here).
-    * Number 5 with 21.850 rides started at DuSable Lake Shore Dr & North Blvd Station (15.406 members also started here).
+  * The 5 most used stations to start a ride by MEMBERS are:
+    * Number 1 with 23.720 rides started is Kingsbury St & Kinzie Station (8.363 casual riders also start here).
+    * Number 2 with 21.386 rides started is Clark St & Elm St Station (12.007 casual riders also start here).
+    * Number 3 with 20.304 rides started is Clinton St & Washington Blvd Station (5.690 casual riders also start here).
+    * Number 4 with 20.203 rides started is Wells St & Concord Ln Station (14.972 casual riders also start here).
+    * Number 5 with 19.408 rides started is Loomis St & Lexington St Station (2.915 casual riders also start here).
+  * The 5 most used stations to end a ride by MEMBERS are:
+    * Number 1 with 23.670 rides ended is Kingsbury St & Kinzie Station (7.460 casual riders also end here).
+    * Number 2 with 21.706 rides ended is Clark St & Elm St Station (11.365 casual riders also end here).
+    * Number 3 with 21.166 rides ended is Clinton St & Washington Blvd Station (4.861 casual riders also end here).
+    * Number 4 with 20.848 rides ended is Wells St & Concord Ln Station (14.607 casual riders also end here).
+    * Number 5 with 19.905 rides ended is University Ave & 57th St Station (5.364 casual riders also end here).
+  * The 5 most used stations start a ride by CASUAL RIDERS are:
+    * Number 1 with 54.023 rides started at Streeter Dr & Grand Ave AVE Station (16.217 members also start here).
+    * Number 2 with 29.866 rides started at DuSable Lake Shore Dr & Monroe St Station (8.797 members also start here).
+    * Number 3 with 23.636 rides started at Millennium Park Station (9.001 members also start here).
+    * Number 4 with 23.488 rides started at Michigan Ave & Oak St Station (13.588 members also start here).
+    * Number 5 with 21.850 rides started at DuSable Lake Shore Dr & North Blvd Station (15.406 members also start here).
     
 
 
