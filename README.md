@@ -159,13 +159,19 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
     * Number 3 with 21.166 rides ended is Clinton St & Washington Blvd Station (4.861 casual riders also end here).
     * Number 4 with 20.848 rides ended is Wells St & Concord Ln Station (14.607 casual riders also end here).
     * Number 5 with 19.905 rides ended is University Ave & 57th St Station (5.364 casual riders also end here).
+    <br>
   * The 5 most used stations start a ride by CASUAL RIDERS are:
     * Number 1 with 54.023 rides started at Streeter Dr & Grand Ave AVE Station (16.217 members also start here).
     * Number 2 with 29.866 rides started at DuSable Lake Shore Dr & Monroe St Station (8.797 members also start here).
     * Number 3 with 23.636 rides started at Millennium Park Station (9.001 members also start here).
     * Number 4 with 23.488 rides started at Michigan Ave & Oak St Station (13.588 members also start here).
     * Number 5 with 21.850 rides started at DuSable Lake Shore Dr & North Blvd Station (15.406 members also start here).
-    
+  * The 5 most used stations end a ride by CASUAL RIDERS are:
+    * Number 1 with 56.977 rides ended at Streeter Dr & Grand Ave AVE Station (14.672 members also end here).
+    * Number 2 with 27.897 rides ended at DuSable Lake Shore Dr & Monroe St Station (9.805 members also end here).
+    * Number 3 with 25.433 rides ended at Millennium Park Station (8.159 members also end here).
+    * Number 4 with 25.063 rides ended at Michigan Ave & Oak St Station (13.051 members also end here).
+    * Number 5 with 24.952 rides ended at DuSable Lake Shore Dr & North Blvd Station (15.202 members also end here).
 
 
         
