@@ -95,113 +95,25 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 <h2 id="ClearStatement"> A clear statement of the business task </h2>
 
-<h3> Questions </h3>
-
-* What is the problem i'm are trying to solve?
-  * A: Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers. I'm helping the Marketing team, getting insights analyzing the Cyclistic historical bike trip data to identify trends and responding the question: How do annual members and casual riders use Cyclistic bikes differently? So they can use data to make Data-Driven decisions. 
-  
-* How can my insights drive business decisions?
-  * A: 
 
 
 <h2 id="Sources"> A description of all data sources used </h2>
 
-<h3> Questions </h3>
 
-* Where i get this data?
-  * I get this data from https://divvy-tripdata.s3.amazonaws.com/index.html . Cyclistic is a fictional company, downloaded 12 months of data from 2022-04 to 2022-03.
-
-* How is the data organized?
-  * A: The excel files are divided by months each one contains information about, type of client, type of rideable used, for how long it was used, where it was rented, where it was delivered.   
 
 <h2 id="Manipulation"> Documentation of any cleaning or manipulation of data </h2>
 
-<h3> Questions </h3>
 
-* What tools I choose and why?
-  * A:I choose Python to use Pandas.
-  
-* What steps I did to ensure that my data is clean?
-   * A: First I import all the files into a DF chosing only the columns I need, containing 5803720 rows.
-   * Used a function to drop all the null values, 4482362 rows remaining.
-   * Used a function to drop duplicates, 4482362 rows remaining.
    
 <h2 id="Summary"> A summary of this analysis </h2> 
 
-<h3> Questions </h3>
 
-* How I organize my data to perform analysis on it?
-  * Create one Data Frame for each comparation
-
-* What trends or relationships did I find in the data?
-  * On One year of data we had:
-    * We had 4.482.362 Unique Rides.
-      * They are divided by:
-        * Members did 2.709.889 rides.
-          * 1.748.836 Using Classic Bikes.
-          * 961.053 Using Eletric Bikes.
-        * Casual Riders did 1.772.473 rides.
-          * 887.242 Using Classic Bikes.
-          * 171.126 Using Docked Bikes.
-          * 714.105 Using Eletric Bikes.
-     
-![image](https://user-images.githubusercontent.com/95443404/236643810-5ffac091-5d61-402d-8166-7378595622b3.png)
-  
-  * The 5 most used stations to start a ride by MEMBERS are:
-    * Number 1 with 23.720 rides started is Kingsbury St & Kinzie Station (8.363 casual riders also start here).
-    * Number 2 with 21.386 rides started is Clark St & Elm St Station (12.007 casual riders also start here).
-    * Number 3 with 20.304 rides started is Clinton St & Washington Blvd Station (5.690 casual riders also start here).
-    * Number 4 with 20.203 rides started is Wells St & Concord Ln Station (14.972 casual riders also start here).
-    * Number 5 with 19.408 rides started is Loomis St & Lexington St Station (2.915 casual riders also start here).
-  * The 5 most used stations to end a ride by MEMBERS are:
-    * Number 1 with 23.670 rides ended is Kingsbury St & Kinzie Station (7.460 casual riders also end here).
-    * Number 2 with 21.706 rides ended is Clark St & Elm St Station (11.365 casual riders also end here).
-    * Number 3 with 21.166 rides ended is Clinton St & Washington Blvd Station (4.861 casual riders also end here).
-    * Number 4 with 20.848 rides ended is Wells St & Concord Ln Station (14.607 casual riders also end here).
-    * Number 5 with 19.905 rides ended is University Ave & 57th St Station (5.364 casual riders also end here).
-    <br>
-  * The 5 most used stations start a ride by CASUAL RIDERS are:
-    * Number 1 with 54.023 rides started at Streeter Dr & Grand Ave AVE Station (16.217 members also start here).
-    * Number 2 with 29.866 rides started at DuSable Lake Shore Dr & Monroe St Station (8.797 members also start here).
-    * Number 3 with 23.636 rides started at Millennium Park Station (9.001 members also start here).
-    * Number 4 with 23.488 rides started at Michigan Ave & Oak St Station (13.588 members also start here).
-    * Number 5 with 21.850 rides started at DuSable Lake Shore Dr & North Blvd Station (15.406 members also start here).
-  * The 5 most used stations end a ride by CASUAL RIDERS are:
-    * Number 1 with 56.977 rides ended at Streeter Dr & Grand Ave AVE Station (14.672 members also end here).
-    * Number 2 with 27.897 rides ended at DuSable Lake Shore Dr & Monroe St Station (9.805 members also end here).
-    * Number 3 with 25.433 rides ended at Millennium Park Station (8.159 members also end here).
-    * Number 4 with 25.063 rides ended at Michigan Ave & Oak St Station (13.051 members also end here).
-    * Number 5 with 24.952 rides ended at DuSable Lake Shore Dr & North Blvd Station (15.202 members also end here).
-
-
-        
-
-* How will these insights help answer the business questions?
-  * 
 
 <h2 id="KeyFindings"> Supporting visualizations and key findings </h2>
 
-<h3> Questions </h3>
 
-* Was this analise able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
-
-* What story does this data tell?
-
-* How do my findings relate to the original question?
-
-* Who is my audience? What is the best way to communicate with them?
-
-* Can data visualization help me share my findings?
-
-* Is my presentation accessible to my audience?
 
 
 <h2 id="Recommendations"> My top three recommendations based on this analysis </h2>
 
-<h3> Questions </h3>
 
-* Final conclusion based on this analysis?
-
-* How could my team and business apply those insights?
-
-* What next steps me or my stakeholders should take based on my findings?
