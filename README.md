@@ -29,10 +29,6 @@
 ![image](https://github.com/dimasabreu/BikeCase/assets/95443404/10d454d3-39bc-47de-8042-b6e349bd9b2e)
 
 
-<h2 id="AnaliseQuestions"> QUESTION </h2>
-
-### How do annual members and casual riders use Cyclistic bikes differently?
-
 <h2 id="Deliverables"> Deliverables </h2>
 
 1. [A clear statement of the business task](#ClearStatement) 
