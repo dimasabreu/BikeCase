@@ -9,7 +9,6 @@
 - [About the company](#AboutCompany)
 - [QUESTION](#AnaliseQuestions)
 - [Deliverables](#Deliverables)
-  - [A clear statement of the business task](#ClearStatement)
   - [A description of all data sources used](#Sources)
   - [Documentation of any cleaning or manipulation of data](#Manipulation)
   - [A summary of my analysis](#Summary)
@@ -31,14 +30,13 @@
 
 <h2 id="Deliverables"> Deliverables </h2>
 
-1. [A clear statement of the business task](#ClearStatement) 
-2. [A description of all data sources used](#Sources)
-3. [Documentation of any cleaning or manipulation of data](#Manipulation)
-4. [A summary of my analysis](#Summary)
-5. [Supporting visualizations and key findings](#KeyFindings)
-6. [My top three recommendations based on my analysis](#Recommendations)
+1 [A description of all data sources used](#Sources)
+2. [Documentation of any cleaning or manipulation of data](#Manipulation)
+3. [A summary of my analysis](#Summary)
+4. [Supporting visualizations and key findings](#KeyFindings)
+5. [My top three recommendations based on my analysis](#Recommendations)
 
-<h2 id="ClearStatement"> A clear statement of the business task </h2>
+
 
 
 
