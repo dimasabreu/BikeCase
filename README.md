@@ -30,7 +30,7 @@
 
 <h2 id="Deliverables"> Deliverables </h2>
 
-1 [A description of all data sources used](#Sources)
+1. [A description of all data sources used](#Sources)
 2. [Documentation of any cleaning or manipulation of data](#Manipulation)
 3. [A summary of my analysis](#Summary)
 4. [Supporting visualizations and key findings](#KeyFindings)
