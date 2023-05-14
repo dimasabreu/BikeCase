@@ -28,19 +28,9 @@
 ![image](https://github.com/dimasabreu/BikeCase/assets/95443404/10d454d3-39bc-47de-8042-b6e349bd9b2e)
 
 
-<h2 id="Deliverables"> Deliverables </h2>
-
-1. [A description of all data sources used](#Sources)
-2. [Documentation of any cleaning or manipulation of data](#Manipulation)
-3. [A summary of my analysis](#Summary)
-4. [Supporting visualizations and key findings](#KeyFindings)
-5. [My top three recommendations based on my analysis](#Recommendations)
-
-
-
-
-
 <h2 id="Sources"> A description of all data sources used </h2>
+
+![image](https://github.com/dimasabreu/BikeCase/assets/95443404/87254035-bdca-4020-b018-985de7fa0fee)
 
 
 
@@ -48,8 +38,9 @@
 
 
    
-<h2 id="Summary"> A summary of this analysis </h2> 
+<h2 id="Summary"> A summary of this analysis </h2>
 
+![image](https://github.com/dimasabreu/BikeCase/assets/95443404/c7b79704-f775-4b86-9a9e-7f30476580c8)
 
 
 <h2 id="KeyFindings"> Supporting visualizations and key findings </h2>
