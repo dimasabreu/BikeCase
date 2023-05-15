@@ -36,6 +36,8 @@
 
 <h2 id="Manipulation"> Documentation of any cleaning or manipulation of data </h2>
 
+![image](https://github.com/dimasabreu/BikeCase/assets/95443404/da340e53-8241-4b86-bb4b-65a750aed7c7)
+
 
    
 <h2 id="Summary"> A summary of this analysis </h2>
