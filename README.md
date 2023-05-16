@@ -25,12 +25,12 @@
 
 <h2 id="AboutCompany"> About the company </h2>
 
-![image](https://github.com/dimasabreu/BikeCase/assets/95443404/10d454d3-39bc-47de-8042-b6e349bd9b2e)
+![image](https://github.com/dimasabreu/BikeCase/assets/95443404/85eb8baf-9f74-43cb-98d6-8e360ab46c43)
 
 
 <h2 id="Sources"> A description of all data sources used </h2>
 
-![image](https://github.com/dimasabreu/BikeCase/assets/95443404/87254035-bdca-4020-b018-985de7fa0fee)
+![image](https://github.com/dimasabreu/BikeCase/assets/95443404/fabbf707-ec68-45ef-ba78-00547ea352ad)
 
 
 
@@ -39,8 +39,11 @@
 ![image](https://github.com/dimasabreu/BikeCase/assets/95443404/da340e53-8241-4b86-bb4b-65a750aed7c7)
 
 
-   
+
 <h2 id="Summary"> A summary of this analysis </h2>
+
+![image](https://github.com/dimasabreu/BikeCase/assets/95443404/3b0279f1-04ec-448b-8822-741cd3a97e6d)
+
 
 ![image](https://github.com/dimasabreu/BikeCase/assets/95443404/c7b79704-f775-4b86-9a9e-7f30476580c8)
 
