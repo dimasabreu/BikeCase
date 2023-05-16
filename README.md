@@ -47,6 +47,8 @@
 
 ![image](https://github.com/dimasabreu/BikeCase/assets/95443404/c7b79704-f775-4b86-9a9e-7f30476580c8)
 
+![image](https://github.com/dimasabreu/BikeCase/assets/95443404/d9b72ccf-920f-4025-9d05-ad9c77ea00fb)
+
 
 <h2 id="KeyFindings"> Supporting visualizations and key findings </h2>
 
