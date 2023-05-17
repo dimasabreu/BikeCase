@@ -42,8 +42,7 @@
 
 <h2 id="Summary"> A summary of this analysis </h2>
 
-![image](https://github.com/dimasabreu/BikeCase/assets/95443404/3b0279f1-04ec-448b-8822-741cd3a97e6d)
-
+![Presentation1](https://github.com/dimasabreu/BikeCase/assets/95443404/97f011f1-4275-40e9-8b05-29cf595173e1)
 
 ![image](https://github.com/dimasabreu/BikeCase/assets/95443404/c7b79704-f775-4b86-9a9e-7f30476580c8)
 
