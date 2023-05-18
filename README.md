@@ -12,7 +12,6 @@
   - [A description of all data sources used](#Sources)
   - [Documentation of any cleaning or manipulation of data](#Manipulation)
   - [A summary of my analysis](#Summary)
-  - [Supporting visualizations and key findings](#KeyFindings)
   - [My top three recommendations based on my analysis](#Recommendations)
 
 </details>
@@ -49,11 +48,6 @@
 ![image](https://github.com/dimasabreu/BikeCase/assets/95443404/d9b72ccf-920f-4025-9d05-ad9c77ea00fb)
 
 ![climateandmonthrides](https://github.com/dimasabreu/BikeCase/assets/95443404/effccac1-48b8-4ab1-96e7-750ea6217ec2)
-
-
-
-<h2 id="KeyFindings"> Supporting visualizations and key findings </h2>
-
 
 
 
