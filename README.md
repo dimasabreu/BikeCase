@@ -1,4 +1,4 @@
-<h1> Case Study: How Does a Bike-Share Navigate Speedy Success? </h1>
+<h1> Study Case </h1>
 
 ## Table of Contents
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
