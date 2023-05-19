@@ -7,7 +7,7 @@
 
 - [Introduction](#Introduction)
 - [About the company](#AboutCompany)
-- [QUESTION](#AnaliseQuestions)
+- [Question](#AnaliseQuestions)
 - [Deliverables](#Deliverables)
   - [A description of all data sources used](#Sources)
   - [Documentation of any cleaning or manipulation of data](#Manipulation)
