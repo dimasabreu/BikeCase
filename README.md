@@ -24,33 +24,30 @@
 
 <h2 id="AboutCompany"> About the company </h2>
 
-![image](https://github.com/dimasabreu/BikeCase/assets/95443404/85eb8baf-9f74-43cb-98d6-8e360ab46c43)
-
+![ciclyst](https://github.com/dimasabreu/BikeCase/assets/95443404/c6328fce-11eb-411e-b66f-bfcb01d6c4ea)
 
 <h2 id="Sources"> A description of all data sources used </h2>
 
-![image](https://github.com/dimasabreu/BikeCase/assets/95443404/fabbf707-ec68-45ef-ba78-00547ea352ad)
-
-
+![Recommendation](https://github.com/dimasabreu/BikeCase/assets/95443404/28ee0c94-335e-4008-abbc-1e090534d71a)
 
 <h2 id="Manipulation"> Documentation of any cleaning or manipulation of data </h2>
 
-![image](https://github.com/dimasabreu/BikeCase/assets/95443404/da340e53-8241-4b86-bb4b-65a750aed7c7)
-
-
+![cleaning](https://github.com/dimasabreu/BikeCase/assets/95443404/66a5929a-ffad-49ef-9802-1f5b4780bdf0)
 
 <h2 id="Summary"> A summary of this analysis </h2>
 
-![Presentation1](https://github.com/dimasabreu/BikeCase/assets/95443404/97f011f1-4275-40e9-8b05-29cf595173e1)
+![maxmeanmode](https://github.com/dimasabreu/BikeCase/assets/95443404/4e3bf292-5374-46df-801c-39171662c9e2)
 
-![image](https://github.com/dimasabreu/BikeCase/assets/95443404/c7b79704-f775-4b86-9a9e-7f30476580c8)
+![days](https://github.com/dimasabreu/BikeCase/assets/95443404/27d6ead0-91ee-4faf-b7cc-e92370e0033d)
 
 ![image](https://github.com/dimasabreu/BikeCase/assets/95443404/d9b72ccf-920f-4025-9d05-ad9c77ea00fb)
 
-![climateandmonthrides](https://github.com/dimasabreu/BikeCase/assets/95443404/effccac1-48b8-4ab1-96e7-750ea6217ec2)
+![Climate](https://github.com/dimasabreu/BikeCase/assets/95443404/63716b0d-e425-4b86-b7d5-5457c44943ee)
 
+![Rideable types](https://github.com/dimasabreu/BikeCase/assets/95443404/b1621e1c-59bc-4049-9b94-e243e3775997)
 
 
 <h2 id="Recommendations"> My top three recommendations based on this analysis </h2>
 
+![Recommendation](https://github.com/dimasabreu/BikeCase/assets/95443404/830668cd-35e6-4646-8446-5733667b11db)
 
